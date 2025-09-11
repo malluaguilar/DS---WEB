@@ -1,0 +1,65 @@
+<!DOCTYPE html> 
+<html>
+
+<head>
+    <title>Atividade 03 - Formulários - Exercicio 2 </title>
+</head>
+<body>
+    <h1>Formulário de Pesquisas de Preferências</h1>
+<br>
+    <label>Gênero:</label>
+    <input type="radio" id="masculino" name="genero" value= "masculino"required>
+    <label for="masculino">Masculino</label>
+    <input type="radio" id="feminino" name="genero" value="feminino">
+    <label for="feminino">Feminino</label>
+    <input type="radio" id="outro"name="genero" value="outro">
+    <label for="outro">Outro</label>
+    <br>
+    <br>
+    <label>Interesses:</label>
+    <input type="checkbox" id="tecnologia" name="interesses" value="tecnologia">
+    <label for="tecnologia">Tecnologia</label>
+    <input type="checkbox" id="esportes" name="interesses" value="esportes" checked>
+    <label for="esportes">Esportes</label>
+    <input type="checkbox" id="arte" name="interesses" value="arte" checked>
+    <label for="esportes">Arte</label>
+    <input type="checkbox" id="musica" name="interesses" value="musica" checked>
+    <label for="esportes">Música</label>
+    <br>
+    <br>
+    <label for="carros">Escolha um carro:</label>
+    <br>
+    <br>
+    <select id="carros" name="carros"multiple >
+    <optgroup label="Sedans">
+    <option value="corolla">Toyota Corolla</option>
+    <option value="civic">Honda Civic</option>
+    </optgroup>
+    <optgroup label="SUVs">
+    <option value="crv">Honda CR-V</option>
+    <option value="rav4">Toyota RAV4</option>
+    </optgroup>
+    </select>
+    <br>
+    <br>
+    <button type="submit">Enviar</button>
+    <br>
+    <br>
+    <label for="hobbies">Selecione seus hobbies:</label>
+    <select id="hobbies" name="hobbies" multiple size="4">
+    <option value="leitura">Leitura</option>
+    <option value="musica">Música</option>
+    <option value="esportes">Esportes</option>
+    <option value="viagem">Viagem</option>
+    </select>
+    <br>
+    <br>
+    <label for="cores">Escolha sua cor favorita:</label>
+    <select id="cores" name="cores">
+    <option value="vermelho">Vermelho</option>
+    <option value="azul">Azul</option>
+    <option value="verde">Verde</option>
+    </select>
+</body>
+</html>
+  

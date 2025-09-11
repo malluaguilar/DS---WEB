@@ -1,0 +1,29 @@
+p {
+    font-size: 16px; /* tamanho fixo */
+    }
+
+.h1 {
+    font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal
+}
+
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px rgb(80, 169, 60);
+    }
+h1{
+    color:rgb(57, 162, 74)
+}
+.div {
+    background: linear-gradient(to left,#80dc96);
+}
+.div2 {
+     background: linear-gradient(to left,#afdcb3);
+}
+img {
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(110, 250, 173) ;
+
+}

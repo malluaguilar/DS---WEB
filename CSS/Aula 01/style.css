@@ -1,0 +1,28 @@
+/*=======comentario em CSS=======*/
+
+/*=======seletores de CSS=======*/
+* {
+    color:fuchsia;
+}
+
+/*=======Seletor Tag HTML=======*/ 
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Courier, monospace(0,190,200);
+    color: (black);
+
+}
+/*=======Seletor class=======*/ 
+.paragrafo-malu {
+    color:aliceblue;
+}
+/*======= ID=======*/
+#idade{
+    color:rgb(242, 2, 255)
+}
+
+body {
+    background: radial-gradient(circle, #cccccc, #a60bd1);
+}
+div {
+    color: #BC96E6
+}

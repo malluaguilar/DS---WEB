@@ -1,0 +1,32 @@
+/*=======comentario em CSS=======*/
+
+/*=======seletores de CSS=======*/
+* {
+    color:rgb(255, 255, 255);
+}
+
+/*=======Seletor Tag HTML=======*/ 
+p{
+    color:rgb(255, 255, 255)
+
+}
+/*=======Seletor class=======*/ 
+.paragrafo-malu {
+    color:rgb(255, 255, 255);
+}
+/*======= ID=======*/
+#idade{
+    color:rgb(255, 251, 255)
+}
+
+body {
+    background: radial-gradient(circle, #cccccc, #a60bd1);
+}
+.div {
+    background: linear-gradient(to left,#b373f7);
+}
+
+.div2 {
+    background: linear-gradient(to left,#583182, #b373f7, #cccccc);
+    width: 150px;
+}
