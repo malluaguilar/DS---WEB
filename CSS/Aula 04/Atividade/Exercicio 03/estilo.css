@@ -1,0 +1,48 @@
+.div-centralizada{
+    background-color: darkmagenta;
+    border: 3px solid black;
+}
+
+.BOX01{
+    background-color: blueviolet;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    width: 120px;
+    height: 40px;
+    border: 3px dashed pink;
+    margin: 5px;
+}
+
+.BOX02{
+    background-color: darkorchid;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    width: 120px;
+    height: 40px;
+    border: 3px dashed pink;
+    margin: 5px;
+}
+
+.BOX03{
+    background-color: indigo;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    width: 120px;
+    height: 40px;
+    border: 3px dashed pink;
+    margin: 5px;
+}
+
+.BOX04{
+    background-color: mediumvioletred;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    width: 120px;
+    height: 40px;
+    border: 3px dashed pink;
+    margin: 5px;
+}

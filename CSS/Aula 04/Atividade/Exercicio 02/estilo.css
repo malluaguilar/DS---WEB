@@ -1,0 +1,18 @@
+.BOX01{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+}
+
+.BOX02{
+    background-color: darkorchid;
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+}
+
+div{
+    display: inline-block;
+    margin: 10px;
+}

@@ -1,0 +1,38 @@
+.cartao01{
+    display: inline-block;
+    background-color: darkseagreen;
+    text-align: center;
+    align-content: center;
+    width: 200px;
+    height: 250px;
+    padding: 15px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+.cartao02{
+    display: inline-block;
+    background-color: darkolivegreen;
+    text-align: center;
+    align-content: center; 
+    width: 200px;
+    height: 250px;
+    padding: 15px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+.cartao03{
+    display: inline-block;
+    background-color: darkgreen;
+    text-align: center;
+    align-content: center; 
+    width: 200px;
+    height: 250px;
+    padding: 15px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+
+

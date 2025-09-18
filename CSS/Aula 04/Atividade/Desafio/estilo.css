@@ -1,0 +1,135 @@
+.divCentral{
+    display: block;
+    text-align: center;
+}
+
+
+.div01{
+    background-color:pink;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 15px;
+}
+.div01:hover{
+    color: white
+}
+
+.div02{
+    background-color:hotpink;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px dotted black;
+    display: inline-block;
+    margin: 15px;
+}
+.div02:hover{
+    color: white
+}
+
+.div03{
+    background-color: deeppink;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 15px;
+}
+.div03:hover{
+    color: white
+}
+
+
+.div04{
+    background-color: violet;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px dotted black;
+    display: inline-block;
+    margin: 15px;
+}
+.div04:hover{
+    color: white
+}
+
+
+.div05{
+    background-color: mediumpurple;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 15px;
+}
+.div05:hover{
+    color: white
+}
+
+
+.div06{
+    background-color: purple;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px dotted black;
+    display: inline-block;
+    margin: 15px;
+}
+.div06:hover{
+    color: white
+}
+
+
+.div07{
+    background-color: lightskyblue;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 15px;
+}
+.div07:hover{
+    color: white
+}
+
+.div08{
+    background-color: steelblue;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px dotted black;
+    display: inline-block;
+    margin: 15px;
+}
+.div08:hover{
+    color: white
+}
+
+.div09{
+    background-color: royalblue;
+    text-align: center;
+    align-content: center;
+    width:110px ;
+    height: 80px ;
+    border: 4px solid black;
+    display: inline-block;
+    margin: 15px;
+}
+.div09:hover{
+    color: white
+}

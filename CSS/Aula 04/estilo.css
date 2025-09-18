@@ -1,0 +1,43 @@
+.body{
+        margin: 0
+
+}
+
+.box{
+    background-color: darkorchid;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    height: 100px;
+    width: 100px;
+    padding: 10px 30px;
+    border: 2px solid hotpink;
+    margin: 10px 50px;
+}
+
+.box2{
+    background-color: hotpink;
+    display: inline-block;
+    text-align: center;
+    align-content: center;
+    height: 100px;
+    width: 100px;
+    padding: 10px 30px;
+    border: 2px solid darkorchid;
+    margin: 10px 50px;
+}
+
+.div-centralizada{
+    margin: 0 auto;
+    width: 300px;
+}
+
+.conteudo01{
+    margin: 0 auto;
+    width: 100px;
+}
+
+.conteudo02{
+    margin: 0 auto;
+    width: 100px;
+}
