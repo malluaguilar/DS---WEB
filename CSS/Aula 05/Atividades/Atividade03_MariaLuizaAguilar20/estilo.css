@@ -1,0 +1,30 @@
+.menu{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-content: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+
+
+}
+
+.div01{
+    height: 300px;
+    width: 100px;
+    background-color: coral;
+    text-align: center;
+    align-content: center;
+}
+.div02{
+    height: 300px;
+    width: 100px;
+    background-color: orange;
+    text-align: center;
+    align-content: center;
+    
+}

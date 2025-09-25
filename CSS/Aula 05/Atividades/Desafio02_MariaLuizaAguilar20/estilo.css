@@ -1,0 +1,156 @@
+.M{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: aqua;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    
+}
+.A1{
+    height: 50px;
+    width: 55px;
+    text-align: center;
+    align-content: center;
+    background-color: blueviolet;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 58px;
+    
+}
+
+.R{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: palevioletred;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 110px;
+    
+}
+
+.I{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: blue;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 160px;
+    
+}
+
+.A2{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: palegreen;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 210px;
+    
+}
+
+.espaco{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: white;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 300px;
+    
+}
+
+.L{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: red;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 340px;
+    
+}
+
+.U{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: mediumaquamarine;
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 390px;
+    
+}
+
+.I2{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: darkkhaki;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 430px;
+    
+}
+
+.Z{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: saddlebrown;
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 480px;
+    
+}
+
+.A3{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    align-content: center;
+    background-color: rgb(226, 226, 43);
+
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+    left: 530px;
+    
+}
+
+.div{
+    height: 1000px;
+    width: 100px;
+}

@@ -1,0 +1,26 @@
+.caixa{
+    height: 60px;
+    background-color: coral; 
+    align-content: center;
+    text-align: center;
+
+    position: sticky;
+    top: 0;
+
+}
+
+.div01{
+    height: 300px;
+    width: 150px;
+    background-color: dodgerblue;
+    text-align: center;
+    align-content: center;
+}
+
+.div02{
+    height: 300px;
+    width: 150px;
+    background-color: cornflowerblue ;
+    text-align: center;
+    align-content: center;
+}

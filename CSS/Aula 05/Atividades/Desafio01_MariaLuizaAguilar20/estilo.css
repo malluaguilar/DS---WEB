@@ -1,0 +1,62 @@
+.menu{
+    height: 60px;
+    width: 100%;
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    align-content: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.paginaTitulo{
+    color: black;
+    text-align: center;
+}
+
+.corpoPagina{
+    display: inline-block;
+    margin-left: 250px;
+    width: 65%;
+    margin-top: 10;
+    
+}
+
+.paragrafo01{
+    margin-top: 10px;
+}
+
+.paragrafo02{
+    margin-top: 10px;
+}
+
+.paragrafo03{
+    margin-top: 10px;
+}
+
+.paragrafo04{
+    margin-top: 10px;
+}
+
+.paragrafo05{
+    margin-top: 10px;
+}
+
+.paragrafo06{
+    margin-top: 10px;
+}
+
+.menulateral{
+    width: 240px;
+    height: 600px;
+    background-color: grey;
+    text-align: center;
+    align-content: center;
+    position: fixed ;
+    display: inline-block;
+    top: 22%;
+    margin-top: 10px;
+    margin-left: -250px;
+}
