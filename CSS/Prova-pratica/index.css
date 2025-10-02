@@ -1,0 +1,60 @@
+.menu01{
+    background-color:brown;
+    width: 2000px;
+    height: 100px;
+    position: fixed;
+}
+.reservas{
+    background-color:darkgray;
+    width: 70px;
+    height: 40px;
+    display: inline-block;
+    padding: 30px;
+    margin-left: 500px;
+
+}
+
+.cardapio{
+    background-color: darkgray;
+    width: 70px;
+    height: 40px;
+    display: inline-block;
+    padding: 30px;
+
+    
+
+}
+.promocoes{
+    background-color:darkgray;
+    width: 110px;
+    height: 70px;
+    display: inline-block;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.pagina{
+    background-color:darkgrey;
+    width: 120px;
+    height: 70px;
+    padding-top: 30px;
+    display: inline-block;
+    text-align: center;
+}
+
+.TextoBV{
+    background-color:white;
+    color:black;
+
+}
+
+.Titulo{
+    background-color: white;
+    color: brown;
+    width: auto;
+    height: auto;
+    font-style:oblique;
+   
+
+}
+
