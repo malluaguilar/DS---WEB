@@ -61,7 +61,7 @@ console.log (`Diferença: ${DiferencaDias} dias.`);  // Saída: Diferença; 6 di
 
 document.getElementById("conteudo").innerHTML = "<p>Olá, Mundo!</p>";
 
-var valor =document.getElementById("conteudo").innerHTML;
+var valor =document.getElementById("conteudo").innerHTML; 
 console.log(valor);
 
 //Usando o setAtributte
