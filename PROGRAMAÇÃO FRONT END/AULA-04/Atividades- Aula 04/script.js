@@ -17,7 +17,7 @@ function Cadastrar(){
      "EMAIL:  " + novoEmail + "<br>" +
      "RM: " + novoRM + "<br>" + 
      "TELEFONE: " + novoTelefone + "<br>" +
-     "TURMA: " + novaTurma + "<br> "
+     "TURMA: " + novaTurma + "<br>"
      novoAluno.setAttribute("id",contadorAluno);
      document.getElementById("lista").appendChild(novoAluno);
 

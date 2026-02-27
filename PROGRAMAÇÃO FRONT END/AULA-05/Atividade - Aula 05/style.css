@@ -1,0 +1,31 @@
+body {
+
+text-align: center;
+background: #fa97ff;
+}
+.area{
+margin: 0 auto;
+width: 500px;
+height: 100px;
+border: 2px solid black;
+padding: 10px;
+}
+.flores{
+margin: 0 auto;
+width: 500px;
+height: 100px;
+border: 2px solid rgb(0, 51, 255);
+padding: 10px;
+
+}
+form, fieldset{
+display: inline;
+}
+h4{
+margin: 0;
+}
+.mensagem, #posicao {
+font-weight: bold;
+}
+.espacamento{
+height: 500px;}
